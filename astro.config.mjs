@@ -14,15 +14,15 @@ export default defineConfig({
 				{
 					label: 'Start Here',
 					items: [
-						{ label: 'Beginner Guide', link: '/guides/beginner' },
-						{ label: 'Breeding Mechanics', link: '/guides/breeding' },
+						{ label: 'Beginner Guide', link: '/guides/beginner/' },
+						{ label: 'Breeding Mechanics', link: '/guides/breeding/' },
 					],
 				},
 				{
 					label: 'Database',
 					items: [
-						{ label: 'Classes & Skills', link: '/database/classes' },
-						{ label: 'Furniture List', link: '/database/furniture' },
+						{ label: 'Classes & Skills', link: '/database/classes/' },
+						{ label: 'Furniture List', link: '/database/furniture/' },
 					],
 				},
 			],

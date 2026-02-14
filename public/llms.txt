@@ -1,0 +1,17 @@
+# Mewgenics Guide
+> A focused community wiki for Mewgenics strategies, breeding mechanics, class planning, and survival systems.
+This site provides practical run-focused guidance, quick reference data, and updated beginner resources.
+
+## Core Content
+- [Beginner Guide](https://mewgenicsguide.online/guides/beginner/): Essential survival tips for early runs.
+- [Breeding Mechanics](https://mewgenicsguide.online/guides/breeding/): Inheritance basics and mutation strategy.
+- [Classes Database](https://mewgenicsguide.online/database/classes/): Role summaries and ability overview.
+- [Furniture List](https://mewgenicsguide.online/database/furniture/): Base items, costs, and effects.
+
+## Common Resources
+- [Homepage](https://mewgenicsguide.online/): Overview, workflow, and FAQ.
+- [Contact](mailto:tangjei414@gmail.com): Feedback and correction channel.
+
+## Optional
+- [Privacy Policy](https://mewgenicsguide.online/privacy/): Privacy commitments for this site.
+- [Terms of Use](https://mewgenicsguide.online/terms/): Usage and content terms.

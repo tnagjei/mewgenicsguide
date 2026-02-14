@@ -1,0 +1,15 @@
+# Mewgenics Guide Full Content Map
+
+This file extends llms.txt with a fuller navigation map for model crawlers.
+
+## Main Pages
+- https://mewgenicsguide.online/
+- https://mewgenicsguide.online/guides/beginner/
+- https://mewgenicsguide.online/guides/breeding/
+- https://mewgenicsguide.online/database/classes/
+- https://mewgenicsguide.online/database/furniture/
+- https://mewgenicsguide.online/privacy/
+- https://mewgenicsguide.online/terms/
+
+## Contact
+- mailto:tangjei414@gmail.com

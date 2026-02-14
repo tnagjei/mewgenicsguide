@@ -1,0 +1,29 @@
+# robots.txt base rules
+# General crawler rules
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://mewgenicsguide.online/sitemap.xml
+
+# AI crawler specific rules
+User-agent: GPTBot
+User-agent: Claude-Web
+User-agent: Anthropic-AI
+User-agent: PerplexityBot
+User-agent: GoogleOther
+User-agent: DuckAssistBot
+
+# Point AI crawlers to llms files
+LLM-Content: https://mewgenicsguide.online/llms.txt
+LLM-Full-Content: https://mewgenicsguide.online/llms-full.txt
+
+# Allow AI crawlers
+Allow: /blog/
+Allow: /products/
+Allow: /about/
+
+# Disallow AI crawlers
+Disallow: /user-content/
