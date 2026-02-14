@@ -7,7 +7,7 @@ export default defineConfig({
 	site: 'https://mewgenicsguide.online',
 	integrations: [
 		starlight({
-			title: 'Mewgenics Guide 2026: Tips, Breeding & Classes Wiki',
+			title: 'mewgenics guide',
 			description: 'The most comprehensive Mewgenics guide. Updated daily. Master breeding mechanics, classes, and survival strategies with our database.',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
